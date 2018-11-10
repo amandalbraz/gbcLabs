@@ -1,1 +1,1 @@
-# gbcLabs
+# George Brown Labs
